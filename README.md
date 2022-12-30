@@ -2,6 +2,6 @@
  Power BI Visualization
  
  Still in progress...........
- 
-![Screenshot (111)](https://user-images.githubusercontent.com/57726249/210010123-11325d43-26b8-4d79-a772-f5c4e8fb08c4.png)
-![Screenshot (112)](https://user-images.githubusercontent.com/57726249/210010133-26505fc4-2d52-4165-855d-af95f4394e60.png)
+
+![Screenshot (113)](https://user-images.githubusercontent.com/57726249/210114543-edd0f765-2140-4bdf-867f-9b396e1bfe26.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/57726249/210114546-07d7041f-af76-4427-9923-8287ba9d0ebe.png)
