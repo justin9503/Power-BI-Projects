@@ -2,6 +2,7 @@
  Power BI Visualization
  
  Link to my Work Viewe Visulization Reports:
+ https://app.powerbi.com/groups/me/list
  https://app.powerbi.com/groups/me/reports/3ed1a05d-5799-4f36-afd4-634408773a07/ReportSection605ab8b8c8b9f510e06b
  
  
